@@ -157,7 +157,7 @@ MonoBehaviour:
     y: 40
     z: 40
   numEnemiesToSpawn: 100
-  enemyPrefab: {fileID: 771891611536463065, guid: 8f2bfdc85abd72d409ca8d14571ea50c,
+  enemyPrefab: {fileID: 1132558623323549096, guid: fb3ea5af5350ab942ba23d0402d0da76,
     type: 3}
   randomSeed: 100
   enemySpawnRate: 0.1
